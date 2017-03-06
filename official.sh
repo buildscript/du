@@ -8,7 +8,7 @@ set +e
 # Turn on compiler caching
 export USE_CCACHE=1
 
-# Set the TESTBUILD build flag
+# Set the OFFICIAL build flag
 export DU_BUILD_TYPE=OFFICIAL
 
 # Set the prebuilt chromium flag
